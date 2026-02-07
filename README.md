@@ -62,7 +62,14 @@ Currently, I am pursuing my **Bachelor's Degree in Data Science at UNSAM**, wher
 * 💬 Bilingual proficiency in **English (C1)** and **Spanish**.
 
 ---
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-corti-262981278/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frcort05@hotmail.com)
+<div align="center">
+  <h3>📫 Connect with me</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/franco-corti-262981278/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/-frcort05@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" valign="middle">
+  </p>
+</div>
